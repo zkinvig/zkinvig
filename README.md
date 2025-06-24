@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @zkinvig
-- 👀 I’m interested in problem solving oriented programming and tackling real-world problems.
-- 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on: not sure yet!
+- 👀 I’m interested in problem solving, object-oriented programming, and tackling real-world problems
+- 🌱 I’m currently working on a degree in software engineering and slowly building out a protfolio of small personal projects
 - 📫 How to reach me: zkinvig@uvic.ca
 
 <!---
